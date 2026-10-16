@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993096613064",
+    "project_id": "parking-app-artyom",
+    "storage_bucket": "parking-app-artyom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993096613064:android:5e6e92d578d4509346b9fd",
+        "android_client_info": {
+          "package_name": "com.example.parking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3oiUNq98N0PIh6PkA9b4AN45-hISDkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

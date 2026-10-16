@@ -78,8 +78,8 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
               child: ElevatedButton(
                 onPressed: () {
                   if (isLast) {
-                    // Именованный маршрут без возможности вернуться назад
-                    Navigator.pushReplacementNamed(context, '/home');
+                    // Переход на регистрацию без возможности вернуться назад
+                    Navigator.pushReplacementNamed(context, '/register');
                   } else {
                     _controller.nextPage(
                         duration: const Duration(milliseconds: 300),

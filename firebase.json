@@ -1,7 +1,1 @@
-{
-  "hosting": {
-    "public": "build/web",
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
-    "rewrites": [{ "source": "**", "destination": "/index.html" }]
-  }
-}
+{"flutter":{"platforms":{"android":{"default":{"projectId":"parking-app-artyom","appId":"1:993096613064:android:5e6e92d578d4509346b9fd","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"parking-app-artyom","configurations":{"android":"1:993096613064:android:5e6e92d578d4509346b9fd"}}}}}}
